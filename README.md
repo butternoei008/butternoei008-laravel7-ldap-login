@@ -24,4 +24,3 @@ In project make auth by vue. If you don't want vue you can doing follow this ste
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-```
