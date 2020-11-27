@@ -19,6 +19,7 @@ Route::get('/', function () {
 
 Auth::routes([
     "reset" => false,
+    "verify" => false,
     "confirm" => false
 ]);
 
